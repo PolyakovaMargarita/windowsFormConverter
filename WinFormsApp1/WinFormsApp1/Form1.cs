@@ -54,7 +54,7 @@ namespace WinFormsApp1
                 numb = numb * 2.54;
             }
             label6.Text = numb.ToString();
-        }
+        } 
 
         private void label6_Click(object sender, EventArgs e)
         {
